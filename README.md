@@ -1,2 +1,3 @@
-# 2048-python-para-data-science-trabajar-con-funciones
-Este repositorio corresponde al entrenamiento de Python: Trabajar con funciones, estructuras de datos y funciones de Alura Latam.
+Desafío Alura Latam.
+Resultado: vender la "tienda 4".
+Esta decisión fue respaldada por gráficos detallados en el notebook del proyecto.
